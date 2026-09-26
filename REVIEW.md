@@ -39,6 +39,15 @@ The two towers stand in a line running roughly north–south, so every apartment
 
 **The adjoining open land will almost certainly get towers, and Godrej will build them.** Agreement for sale recital K: "The Promoter has acquired certain lands adjacent to the Larger Property and is in the process of acquiring additional adjoining lands." Recitals R and S and clause 1.3 make you consent in advance to more towers, shared amenities and a revised layout. Channel-partner sites describe the scheme as "32 acres total, Phase 1 = 8.07 acres". The land Godrej bought was the Modern Spaaces "Urban Oasis" 34-acre villa land. Expect 4–6 more towers of similar height over the next decade; the minimum gap to a future tower across a road is about 44 m (16 m + 12.19 m + 16 m).
 
+### Where the services sit (sanctioned ground floor plan 6 of 13 and STP drawing), relative to B-x05
+
+- **STP (410 KLD):** fully underground, from basement 3 up to basement 1 level, under the west fire driveway opposite the clubhouse and Tower A's north end. Opposite face of the other tower from B-05, about 60 m away.
+- **STP exhaust shaft:** runs the full height of Tower B inside the core, at the core's north-east corner, opening onto the 2 m corridor a few metres from the B-05 front door on every floor, discharging at the terrace. The only service item that touches B-05 directly. Ask for a sealed shaft with terrace-level discharge and odour treatment, and no openings on residential floors.
+- **DG yard:** outside the building plot at the far south-west of the site. **Transformer yard and OWC (wet/dry waste) yard:** south-west corner of the plot beside the exit gate. All at the opposite end from Tower B.
+- **Water tanks:** raw water (200 cum, tanker-fed) and rainwater tanks in the basement's north-east corner under Tower B's north end; tanker unloading will happen at that end.
+- **Pool:** east side in front of the clubhouse, about 40 m south of the B-05 stack, seen at an angle from the balcony. B-06 is nearer it.
+- **Traffic loop:** vehicle entry at the north-west corner, around Tower B's north end to the basement entry ramp in the east setback in front of Tower B; exit ramp south of the pool, out at the south-west corner. The east strip in front of Tower B is the busiest ground area, which matters for low floors, not the 28th.
+
 ## 4. Approach road
 
 - Access is from Sompura Gate on Sarjapur Main Road, south along Kada Agrahara Road through Kada Agrahara village, then west on the Kada Agrahara–Hosahalli road. Roughly 2.5–3 km from the main road (estimate from the plan's coordinates; drive it at 9 am and 7 pm before deciding).
