@@ -97,7 +97,7 @@ The project is outside BWSSB's Cauvery network. Supply is panchayat/borewell/tan
 | 03, 04 | 3 BHK | True corners at the north end of each tower | West / East |
 | 07, 08 | 3 BHK | True corners at the south end of each tower | East / West |
 
-In Tower A the north-end corners (03/04) are the 2-toilet "Luxe" and the south-end corners (07/08) the 3-toilet "Premium"; Tower B is the mirror image. The 20th and 30th floors are refuge floors.
+The marketing floor plan uses the same numbering and confirms the orientation (01/02 top row with west balconies and east doors; 05/06 bottom row with east balconies and west doors). It labels the outer corners (A-07/08, B-03/04) "3 BHK Luxe" and the corners beside the clubhouse (A-03/04, B-07/08) "3 BHK PRM"; on the drawing the outer corners are the larger three-toilet units (three bedrooms of 3.43 × 4.02, 3.42 × 4.02 and 3.43 × 3.86) and the inner ones the smaller two-toilet units (master 3.35 × 4.65, two bedrooms 3.35 × 3.35). Both 2 BHK variants are marketed as "2 BHK Luxe" despite the size difference. The 20th and 30th floors are refuge floors.
 
 So for **A-2401, if the sales numbering matches the architect's**: it is the smaller of the two 2 BHK types; its main door faces east (which is probably what "east-facing" means in the pitch); its living room, both bedrooms and balcony face **west**, over the west road toward the villa side; it is "corner-like" only in the sense that its south wall opens onto the open-to-sky cutout. It is not one of the four true corner units on the floor, which are all 3 BHKs.
 
