@@ -6,7 +6,7 @@ Prepared 26 Sep 2026 from the K-RERA disclosure set in this repository (97 files
 
 **Conditional yes.** The paperwork is unusually complete and the title/approval risk is low. The economics are only fair: you are paying a top-of-micro-market price (about ₹10,900 per sq ft of super built-up area, roughly ₹18,400 per sq ft of RERA carpet) for a home that is five years from possession, on a 40 ft approach road, with tanker/panchayat water, and with roughly 24 more acres of Godrej's own future towers coming up next door. Base-case returns look like 7–10% IRR with 2.5–3.5% gross rental yield after 2031. That is acceptable for a patient, low-risk-appetite buyer, not a bargain.
 
-**On the specific offer (Tower A 2401 at ₹1.355 Cr):** do not sign on the current description. Per the sanctioned typical-floor plan, unit 01 is not a tower-corner unit and its balcony faces **west**, not east; "east-facing" can only be true of its main door. Get the sales team to mark 2401 on drawing 12 of 13 and confirm balcony direction before anything else. Details in section 9.
+**On the specific offer (Tower A 2401 at ₹1.355 Cr):** do not sign until the unit is pinned down on the sanctioned plan. No 2 BHK on the typical floor is a true corner unit; the four corners are 3 BHKs. The drawing's unit 01 is the smaller 2 BHK with a west-facing balcony, but the sales team's numbering may start on the other side of the corridor, in which case 2401 is the larger east-balcony type. Get the sales team to mark 2401 on drawing 12 of 13 and give the RERA carpet area in sq m before anything else. Details in section 9.
 
 ## 2. What the RERA documents establish
 
@@ -99,7 +99,9 @@ The project is outside BWSSB's Cauvery network. Supply is panchayat/borewell/tan
 
 In Tower A the north-end corners (03/04) are the 2-toilet "Luxe" and the south-end corners (07/08) the 3-toilet "Premium"; Tower B is the mirror image. The 20th and 30th floors are refuge floors.
 
-So for **A-2401**: it is the smaller of the two 2 BHK types; its main door faces east (which is probably what "east-facing" means in the pitch); its living room, both bedrooms and balcony face **west**, over the west road toward the villa side; it is "corner-like" only in the sense that its south wall opens onto the open-to-sky cutout. It is not one of the four true corner units on the floor, which are all 3 BHKs. If the salesperson insists the balcony faces east, they are describing a 05/06-type unit, and the number is wrong.
+So for **A-2401, if the sales numbering matches the architect's**: it is the smaller of the two 2 BHK types; its main door faces east (which is probably what "east-facing" means in the pitch); its living room, both bedrooms and balcony face **west**, over the west road toward the villa side; it is "corner-like" only in the sense that its south wall opens onto the open-to-sky cutout. It is not one of the four true corner units on the floor, which are all 3 BHKs.
+
+**Caveat on numbering.** The sales team describes the "1 and 2 series" as the larger 1,246 sq ft units and east-facing. On the sanctioned drawing the larger 2 BHKs are 05/06 (east balcony). The likely explanation is that the sales numbering starts on the other side of the corridor, so their 01/02 = the drawing's 05/06. If so, A-2401 is the larger east-balcony type, and the warning above does not apply. Settle it with the RERA carpet area in sq m from the cost sheet: about 75 sq m (≈ 800 sq ft) means the larger east-balcony type; about 68 sq m (≈ 735 sq ft) means the smaller west-balcony type. Neither type is a true corner unit.
 
 **Which is best for an investor (2 BHK budget):**
 
