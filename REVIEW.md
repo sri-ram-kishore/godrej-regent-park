@@ -109,7 +109,9 @@ So for **A-2401, if the sales numbering matches the architect's**: it is the sma
 2. **Second choice: a 01/02-type 2 BHK in Tower B, similar floors,** if you want an east-facing door for resale and you value the villa community on the west as a semi-permanent low-rise view (villas rarely get redeveloped within 10–15 years). Accept afternoon sun.
 3. **If budget stretches:** B-x03 or B-x04, the 3 BHK corners at Tower B's north end, are the only units with a guaranteed permanent open outlook (park and civic-amenity site). About ₹2.16 Cr though, and 3 BHK yields are lower.
 
-A-2401 specifically: fine unit, but pay no premium for "corner" or "east-facing", and compare its price against a B-2405/2406 cost sheet on the same day. Tower A's south end and the whole west and east frontages face land that Godrej says it is buying, so no 2 BHK view is protected; only the north end is.
+A-2401 specifically: fine unit, but pay no premium for "corner" or "east-facing", and compare its price against a B-2405/2406 cost sheet on the same day.
+
+**Switching to B-2705 / B-2706 / B-2805 (offered as available):** if the sales numbering matches the drawing, these are the larger east-balcony type and the switch is right; prefer B-2705 (northern of the pair, toward the park, farthest from Tower A), then B-2805 if floor-rise is small, then B-2706. If the sales numbering is flipped (their 01/02 = 1,246 sq ft east-facing), their 05/06 are the smaller west-balcony type and A-2401 is the better unit; ask for B-2701/2702 instead if Tower B is wanted. Decide from the two cost sheets: larger carpet (≈ 75 sq m) with the balcony over the pool wins. Three open units in one stack also means there is room to negotiate. Tower A's south end and the whole west and east frontages face land that Godrej says it is buying, so no 2 BHK view is protected; only the north end is.
 
 ## 10. Contract points worth knowing (agreement for sale, revised after RERA queries)
 
