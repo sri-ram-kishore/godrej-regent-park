@@ -65,7 +65,7 @@ Nothing in the documents suggests so, but I could not verify ground levels indep
 
 ## 6. Water supply (bigger practical risk than flooding)
 
-The project is outside BWSSB's Cauvery network. Supply is panchayat/borewell/tanker, and the AFS puts the cost into maintenance. This is normal for Anekal Planning Authority projects, but it means higher maintenance bills and periodic shortages in summer, which tenants notice. Cauvery Stage V does not cover this belt; do not assume it will by 2031.
+The project is outside BWSSB's Cauvery network. No borewell is shown on any sanctioned drawing or mentioned in the RERA set; the circled symbols around the site on the ground floor plan are rainwater harvesting pits (RWH), six of them. Supply is the Yamare Gram Panchayat connection "as available", tankers into a 200 cum raw water tank in the basement's north-east corner, rainwater, and STP-recycled water for flushing and landscape from the 410 KLD plant. Anekal taluk is a notified over-exploited groundwater zone, so new borewells need Karnataka Groundwater Authority permission and should not be counted on. Rough tanker load at full occupancy: 150 to 200 KLD, about 15 tankers a day, roughly ₹1,100 to 1,500 per flat per month inside maintenance. The AFS puts the cost into maintenance. This is normal for Anekal Planning Authority projects, but it means higher maintenance bills and periodic shortages in summer, which tenants notice. Cauvery Stage V does not cover this belt; do not assume it will by 2031.
 
 ## 7. What is likely to come up around it
 
