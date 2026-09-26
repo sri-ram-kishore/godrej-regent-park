@@ -6,7 +6,7 @@ Prepared 26 Sep 2026 from the K-RERA disclosure set in this repository (97 files
 
 **Conditional yes.** The paperwork is unusually complete and the title/approval risk is low. The economics are only fair: you are paying a top-of-micro-market price (about ₹10,900 per sq ft of super built-up area, roughly ₹18,400 per sq ft of RERA carpet) for a home that is five years from possession, on a 40 ft approach road, with tanker/panchayat water, and with roughly 24 more acres of Godrej's own future towers coming up next door. Base-case returns look like 7–10% IRR with 2.5–3.5% gross rental yield after 2031. That is acceptable for a patient, low-risk-appetite buyer, not a bargain.
 
-**On the specific offer (Tower A 2401 at ₹1.355 Cr):** do not sign until the unit is pinned down on the sanctioned plan. No 2 BHK on the typical floor is a true corner unit; the four corners are 3 BHKs. The drawing's unit 01 is the smaller 2 BHK with a west-facing balcony, but the sales team's numbering may start on the other side of the corridor, in which case 2401 is the larger east-balcony type. Get the sales team to mark 2401 on drawing 12 of 13 and give the RERA carpet area in sq m before anything else. Details in section 9.
+**On the specific offer (Tower A 2401 at ₹1.355 Cr):** the cost sheet confirms it is all-in including GST and other charges, at about ₹10,120 per sq ft of SBA before GST. It is a west-balcony 2 BHK facing the open land where later Godrej towers are most likely. Not a corner unit; the four corners are 3 BHKs. The better choices at the same money are the east-balcony 2 BHKs in Tower B (B-2805 first), and the better choice overall, if the budget allows about ₹2.13 Cr with registration, is the north-east 3-toilet 3 BHK B-x04 at ₹2.0 Cr all-in, which works out to the same per-sq-ft rate. Details in sections 8 and 9.
 
 ## 2. What the RERA documents establish
 
@@ -74,17 +74,23 @@ The project is outside BWSSB's Cauvery network. Supply is panchayat/borewell/tan
 
 **Units sold:** no public figure. Karnataka RERA requires quarterly progress updates; the first (Jul–Sep 2026) should appear on the RERA project page in October. Ask the sales manager for the live inventory screen for Tower A and B. The speed with which they moved from list to "final" within ten weeks suggests inventory is not tight.
 
-**Your all-in number (check what "final" includes):**
+**The A-2401 cost sheet (draft dated 24 Sep 2026):**
 
 | Component | Amount |
 |---|---|
-| Quoted "final" | ₹1.355 Cr |
-| GST 5% if not included | ≈ ₹6.8 lakh |
-| Stamp duty + registration (about 6.6% in Karnataka) | ≈ ₹9.0–9.4 lakh |
-| Corpus, maintenance advance, club, BESCOM/water deposits, legal | typically ₹4–7 lakh; get the sheet |
-| All-in | ≈ ₹1.45 Cr if GST is inside the quote, ≈ ₹1.52 Cr if not |
+| Carpet 72.24 sq m + exclusive (balcony, utility) 7.64 sq m = 79.88 sq m at ₹1,53,273 per sq m | ₹1,22,43,519 |
+| Infra charges at ₹300 per sq ft SBA | ₹3,74,025 |
+| Sale consideration | ₹1,26,17,544 (₹10,120 per sq ft SBA; ₹16,226 per sq ft RERA carpet) |
+| Advance maintenance 24 months at ₹6 per sq ft, sinking fund ₹72 per sq ft | ₹2,69,298 |
+| GST: 5% on sale consideration, 18% on advance maintenance | ₹6,63,193 |
+| Total including levies | ₹1,35,50,035 |
+| Stamp duty and registration, about 6.6% of consideration, mostly at sale deed | ≈ ₹8.3 lakh extra |
 
-**Carpet check:** scaling the sanctioned plan, the unit-01 type 2 BHK is about 68 sq m (≈ 735 sq ft) RERA carpet plus a 4.5 sq m balcony. Against 1,240 sq ft SBA that is roughly 59% efficiency, i.e. about 41% loading. The allotment letter will state the RERA carpet in sq m; insist on seeing it and price the deal per carpet sq ft (≈ ₹18,400) when comparing with resale flats.
+The car park is inside the flat cost, as RERA required. Payment is front-loaded: 5% at booking, 5% in 15 days, 10% in 75 days, 10% at foundation or 25 Jan 2027 whichever is later, then 10% each at ground, 7th, 12th, 18th and 25th slabs, OC application and possession notice. So 40% is paid within about four months, before any superstructure exists.
+
+**Efficiency:** 777.59 sq ft RERA carpet against 1,246.75 sq ft SBA is 62%, i.e. about 60% loading on carpet. Compare resale flats per carpet sq ft.
+
+**3 BHK B-x04 at ₹2.0 Cr:** if ₹2.0 Cr is the total including GST and other charges, on the same basis as the 2401 sheet, the sale consideration is about ₹1.86 Cr, which is ₹9,970 per sq ft SBA and ₹16,630 per sq ft RERA carpet. That is the 2 BHK rate with no corner premium, for the only unit type with two protected sides (east over the villa layout, north over the relinquished park), two balconies and three toilets. Registration adds about ₹12.3 lakh, so about ₹2.13 Cr all-in. If instead ₹2.0 Cr is the pre-GST consideration, the total is about ₹2.145 Cr, or ₹10,700 per sq ft SBA, a 6% premium to the 2 BHK; still fair for a corner, but then the 2 BHK is the better value per rupee. Counter at ₹2.0 Cr all-in and treat ₹2.05 Cr all-in as the ceiling.
 
 ## 9. Which unit, and what Tower A 2401 actually is
 
@@ -92,20 +98,23 @@ The project is outside BWSSB's Cauvery network. Supply is panchayat/borewell/tan
 
 | Units | Type | Position | Balcony faces |
 |---|---|---|---|
-| 01, 02 | 2 BHK, ≈ 68 sq m carpet | Mid units flanking the lift core, west side; an open-to-sky cutout on the outer side | West |
-| 05, 06 | 2 BHK, ≈ 75 sq m carpet (about 9% larger: 3.35×4.02 master, bigger dining, bigger utility) | Mid units flanking the core, east side | East |
-| 03, 04 | 3 BHK | True corners at the north end of each tower | West / East |
+| 01, 02 | 2 BHK Luxe: RERA carpet 72.24 sq m, balcony 4.46, utility 3.18, SBA 1,246.75 sq ft (official plan) | Mid units flanking the lift core, west side; an open-to-sky cutout on the outer side | West |
+| 05, 06 | 2 BHK Luxe: RERA carpet 70.56 sq m, balcony 5.35, utility 3.52, SBA 1,239.73 sq ft (official plan) | Mid units flanking the core, east side | East |
+| 03, 04 | 3 BHK; B-04 is the 3-toilet "Luxe": RERA carpet 103.99 sq m, balconies 11.86, utility 3.82, SBA 1,867.79 sq ft | True corners at the north end of each tower | West / East |
 | 07, 08 | 3 BHK | True corners at the south end of each tower | East / West |
+
+The two 2 BHK types are the same size. The 01/02 type has 1.7 sq m more RERA carpet on paper because its passage is longer; the 05/06 type has about 4 sq m more room floor (master 3.35×4.02 against 3.35×3.35, living 3.20×3.51 against 3.24×3.20, dining 3.65×2.78 against 3.35×2.17) and a larger balcony. An earlier draft of this review estimated 05/06 as 9% larger in carpet from scaling the sanctioned plan; the official floor plans show that was wrong.
 
 The marketing floor plan uses the same numbering and confirms the orientation (01/02 top row with west balconies and east doors; 05/06 bottom row with east balconies and west doors). It labels the outer corners (A-07/08, B-03/04) "3 BHK Luxe" and the corners beside the clubhouse (A-03/04, B-07/08) "3 BHK PRM"; on the drawing the outer corners are the larger three-toilet units (three bedrooms of 3.43 × 4.02, 3.42 × 4.02 and 3.43 × 3.86) and the inner ones the smaller two-toilet units (master 3.35 × 4.65, two bedrooms 3.35 × 3.35). Both 2 BHK variants are marketed as "2 BHK Luxe" despite the size difference. The 20th and 30th floors are refuge floors.
 
 So for **A-2401, if the sales numbering matches the architect's**: it is the smaller of the two 2 BHK types; its main door faces east (which is probably what "east-facing" means in the pitch); its living room, both bedrooms and balcony face **west**, over the west road toward the villa side; it is "corner-like" only in the sense that its south wall opens onto the open-to-sky cutout. It is not one of the four true corner units on the floor, which are all 3 BHKs.
 
-**Numbering confirmed.** The sales team confirms that B-x05/x06 have west-facing doors and east-facing balconies, which matches the sanctioned drawing. So the sales numbers follow the architect's numbering: 05/06 are the larger east-balcony 2 BHKs (≈ 75 sq m carpet) and 01/02 are the smaller west-balcony 2 BHKs (≈ 68 sq m). A-2401 is therefore the smaller type with a west-facing balcony; "east-facing" referred to its door. Neither type is a true corner unit. Verify the carpet in sq m on the cost sheet and check whether the SBA quoted for 05/06 is at or below the 1,246 sq ft quoted for 01/02.
+**Numbering confirmed.** The official floor plans and the A-2401 cost sheet confirm that the sales numbers follow the architect's numbering: 01/02 are the west-balcony 2 BHKs (72.24 sq m carpet, 1,246.75 sq ft SBA) and 05/06 the east-balcony 2 BHKs (70.56 sq m carpet, 1,239.73 sq ft SBA). A-2401 has a west-facing balcony toward the open land; "east-facing" referred to its door. Neither type is a true corner unit.
 
 **Which is best for an investor (2 BHK budget):**
 
-1. **First choice: a 05/06-type 2 BHK in Tower B, floors 15–28.** Larger carpet for what should be a similar SBA and price band, morning sun, looks over the pool and club toward the east, and Tower B is nearer the gate and the park. Main door faces west, which some Vastu-minded buyers dislike; in Bangalore that costs less on resale than a 9% smaller flat does.
+1. **First choice among 2 BHKs: a 05/06-type in Tower B, floors 15–28.** Same size and price band as 01/02, larger rooms and balcony, morning sun, and the east balcony looks over the pool toward the villa layout, which cannot take a high-rise. Main door faces west, which some Vastu-minded buyers dislike; the protected view is worth more on resale than the door direction.
+0. **Best unit in the project if the budget stretches to about ₹2.13 Cr all-in: B-x04**, the north-east 3-toilet 3 BHK, at ₹2.0 Cr all-in (see section 8). Floor matters little for it: the villas opposite are three storeys and the park view is at ground level, so the 10th floor upward is fine.
 2. **Second choice: a 01/02-type 2 BHK in Tower B, similar floors,** if you want an east-facing door for resale and you value the villa community on the west as a semi-permanent low-rise view (villas rarely get redeveloped within 10–15 years). Accept afternoon sun.
 3. **If budget stretches:** B-x03 or B-x04, the 3 BHK corners at Tower B's north end, are the only units with a guaranteed permanent open outlook (park and civic-amenity site). About ₹2.16 Cr though, and 3 BHK yields are lower.
 
