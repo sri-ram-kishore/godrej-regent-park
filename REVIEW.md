@@ -90,6 +90,8 @@ The car park is inside the flat cost, as RERA required. Payment is front-loaded:
 
 **Efficiency:** 777.59 sq ft RERA carpet against 1,246.75 sq ft SBA is 62%, i.e. about 60% loading on carpet. Compare resale flats per carpet sq ft.
 
+**Final B-2805 cost sheet (26 Sep 2026), verified:** sale consideration ₹1,26,17,544 (identical to A2401; rate ₹1,54,169 per sq m on 79.43 sq m plus infra ₹3,71,919), other charges ₹2,67,782, GST ₹6,63,011, total ₹1,35,48,336.68. Floor rise absorbed. Same payment plan. Stamp duty, registration and possession-time deposits are extra.
+
 **3 BHK B-x04 at ₹2.0 Cr:** if ₹2.0 Cr is the total including GST and other charges, on the same basis as the 2401 sheet, the sale consideration is about ₹1.86 Cr, which is ₹9,970 per sq ft SBA and ₹16,630 per sq ft RERA carpet. That is the 2 BHK rate with no corner premium, for the only unit type with two protected sides (east over the villa layout, north over the relinquished park), two balconies and three toilets. Registration adds about ₹12.3 lakh, so about ₹2.13 Cr all-in. If instead ₹2.0 Cr is the pre-GST consideration, the total is about ₹2.145 Cr, or ₹10,700 per sq ft SBA, a 6% premium to the 2 BHK; still fair for a corner, but then the 2 BHK is the better value per rupee. Counter at ₹2.0 Cr all-in and treat ₹2.05 Cr all-in as the ceiling.
 
 ## 9. Which unit, and what Tower A 2401 actually is
